@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p>size verilen listleme örneğini tek sayfa olarak hazırlayın.</p>
+    <ol>
+        <li>İç Donanım Birimleri</li>
+        <ol type="I">
+            <li>Anakart</li>
+            <li>İşlemci</li>
+            <li>Bellek</li>
+        </ol>
+        <li>Dış donanım Birimleri</li>
+        <ol type="1">
+            <li>Monitör</li>
+            <ol type="a">
+                <li>LCD
+                <li>LED
+                </li>
+            </ol> <b></b>
+            <li>Klavye</li>
+            <li>Fare</li>
+            <p>
+            <ol type="1">
+                <li>Anakart</li>
+                <li>Ram</li>
+                <ol type="a">
+                    <li>Statik</li>
+                    <li>Dinamik</li>
+                </ol>
+                <li>Klavye</li>
+                <ol type="a">
+                    <li>Kablolu</li>
+                    <li>Kablosuz</li>
+                    <ol type="i">
+                        <li>wireless</li>
+                        <li>Bluetooth</li>
+                        <li>infra red</li>
+
+                    </ol>
+                    <li>Klavye</li>
+                    <li>Sabit disk</li>
+                    <ol type="a">
+                        <li>ssd</li>
+                        <li>sata</li>
+                        <li>pata</li>
+
+
+                    </ol>
+
+
+
+
+                </ol>
+                </p>
+            </ol>
+</body>
+
+</html>
